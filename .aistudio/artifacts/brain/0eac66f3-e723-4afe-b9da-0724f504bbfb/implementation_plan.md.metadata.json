@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação para a Calculadora Python Didática: interface limpa de dois painéis (calculadora funcional + visualizador de código Python em tempo real e rastreamento passo a passo de variáveis e chamadas de função), com foco nos fundamentos da engenharia de software para as 4 operações básicas.",
+  "updatedAt":  "2026-10-27T19:30:00.942400654Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

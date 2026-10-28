@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Didática em Python",
+  "description": "Calculadora limpa com as 4 operações básicas e visualizador interativo de código e execução Python em tempo real para estudantes de engenharia de software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
